@@ -17,12 +17,14 @@ the configuration and deployment of development environments in the cloud.
 👷 Armada was built with TypeScript, React, Node, Express, PostgreSQL, AWS CDK,
 and AWS SDK.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;" width="55">
-<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" style="max-width: 100%;" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;" width="55">
-<img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" style="max-width: 100%;" width="55">
-<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" style="max-width: 100%;" width="55">
+<div dir="auto" align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;" width="55">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" style="max-width: 100%;" width="55">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;" width="55">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" style="max-width: 100%;" width="55">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;" width="55">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" style="max-width: 100%;" width="55">
+</div>
 
 If you'd like to learn more about Armada, take a look at our
 [case study](https://team-armada.github.io/case-study.html).
@@ -31,10 +33,7 @@ If you'd like to learn more about Armada, take a look at our
 
 If you'd like to get in touch, you can reach me at:
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jdguillaume/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;" width="55"></a>
-
-<a href="mailto:josephdguillaume@gmail.com" target="_blank" rel="noreferrer"><img src="icons8-mail.svg" style="max-width: 100%;" width="55"></a>
-
-</p>
+<div dir="auto" align="left">
+    <a href="https://www.linkedin.com/in/jdguillaume/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width: 100%;" width="55"></a>
+    <a href="mailto:josephdguillaume@gmail.com" target="_blank" rel="noreferrer"><img src="icons8-mail.svg" style="max-width: 100%;" width="55"></a>
+</div>
