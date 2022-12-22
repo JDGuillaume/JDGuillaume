@@ -7,7 +7,7 @@ I'm always up for new challenges and tackling interesting problems.
 <hr />
 
 <p align="center">
-    <img src="https://github.com/team-armada/.github/blob/main/profile/logo.svg" alt="The Armada Logo -- A pirate ship with a gradient background." width="500" style="border-radius: 5%;"/>
+    <img src="https://github.com/team-armada/.github/blob/main/profile/logo.svg" alt="The Armada Logo -- A pirate ship with a gradient background." width="250" style="border-radius: 5%;"/>
 </p>
 
 I recently co-created [Armada](https://team-armada.github.io/index.html), an
